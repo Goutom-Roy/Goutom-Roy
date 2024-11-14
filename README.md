@@ -1,20 +1,8 @@
-<!--
-**Goutom Roy/Goutom Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Goutom+Roy..;Microsoft+Student+Ambassador;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=28&lines=Hi👋+I'm+Goutom+Roy..;Student+of+IUB;Learning+In+Public..;Driven+by+curiosity+and+a+passion+for+growth;Nice+To+Meet+You+....&center=true"></a></p>
     
 
     
@@ -68,11 +56,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Goutom-Royr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!--START_SECTION:waka-->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Goutom-Roy&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-```
-<!--END_SECTION:waka-->
+
+
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/Goutom-Roy.Goutom-Roy.svg)
