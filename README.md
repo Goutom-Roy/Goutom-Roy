@@ -55,10 +55,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?Goutom-Roy&theme=radical&hide_border=false)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
-## 🏆 GitHub Trophies
+# 🏆GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Goutom-Roy&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
 
 
 
